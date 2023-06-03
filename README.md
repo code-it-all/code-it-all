@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Vrishti
 - 👀 I’m interested in Web applicatons/Website development .
-- 🌱 I’m currently learning node.js.
+- 🌱 I’m currently learning MERN Stack development.
 - 📫 How to reach me use riyavrishti@gmail.com. 
