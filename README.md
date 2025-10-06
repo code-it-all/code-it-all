@@ -20,7 +20,7 @@ Skilled in **JavaScript**, **Python**, and frontend & full-stack development.
 | Frontend / UI | Backend / API | Languages | Tools & Others |
 |---------------|----------------|-----------|----------------|
 | HTML, CSS, JavaScript | Express.js, Node.js | Python | Git, GitHub, VSCode |
-| React (in progress) | — | SQL / NoSQL (learning) | REST APIs, Web Projects |
+| React | — | SQL / NoSQL | REST APIs, Web Projects |
 
 ---
 
